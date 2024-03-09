@@ -1,0 +1,12 @@
+{
+  "ext": ".py",
+  "command": "python code/code.py",
+  "auto_command": true,
+  "exercises": 
+  [
+    {
+      "title": "Variables",
+      "instructions": "Assign variables for integers, strings, and booleans.\n\nUse both the shorthand and long form methods.\n\nThen print each variable."
+      }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ext": ".go",
+  "command": "go run code/code.go",
+  "auto_command": false,
+  "exercises": 
+  [
+    {
+    "title": "Variables",
+    "instructions": "Assign variables for integers, strings, and booleans.\n\nUse both the shorthand and long form methods.\n\nThen print each variable."
+    }
+  ]
+}
