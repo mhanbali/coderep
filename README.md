@@ -22,10 +22,16 @@ Clone the project
   git clone https://github.com/mhanbali/coderep
 ```
 
-Go to the project directory
+Go to the project directory (whatever you named the folder - i.e. coderep)
 
 ```bash
   cd coderep
+```
+
+If needed, install the dependencies
+
+```bash
+  go get
 ```
 
 Running it requires you pass in the exercise file in the exercises folder.
