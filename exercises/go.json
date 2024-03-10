@@ -7,6 +7,34 @@
     {
     "title": "Variables",
     "instructions": "Assign variables for integers, strings, and booleans.\n\nUse both the shorthand and long form methods.\n\nThen print each variable."
+    },
+    {
+      "title": "Constants",
+      "instructions": "Create a constant and print it."
+    },
+    {
+      "title": "Looping",
+      "instructions": "Create a simple for loop that prints 1-10."
+    },
+    {
+      "title": "If/Else",
+      "instructions": "Create an if/else statement that prints \"true\" if a variable is true and \"false\" if it is false."
+    },
+    {
+      "title": "Switching",
+      "instructions": "Create a switch statement that prints \"one\" if a variable is 1, \"two\" if it is 2, and \"other\" if it is anything else."
+    },
+    {
+      "title": "Arrays",
+      "instructions": "Create an array of strings and print each string using a For loop."
+    },
+    {
+      "title": "Slices",
+      "instructions": "Create a slice of strings and print each string using a For loop."
+    },
+    {
+      "title": "Maps",
+      "instructions": "Create a map of strings and print each key/value pair using a For loop."
     }
   ]
 }
